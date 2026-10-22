@@ -1,0 +1,8 @@
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+# Demos and exported videos
+*.dm_1
+*.webm
+*.mp4

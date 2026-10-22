@@ -1,0 +1,461 @@
+{
+  "version": 1,
+  "icons": {
+    "skull": {
+      "file": "skull.png",
+      "ratio": "1:1"
+    },
+    "knife": {
+      "file": "knife.png",
+      "ratio": "1:1"
+    },
+    "headshot": {
+      "file": "headshot.png",
+      "ratio": "1:1"
+    },
+    "crush": {
+      "file": "crush.png",
+      "ratio": "1:1"
+    },
+    "falling": {
+      "file": "falling.png",
+      "ratio": "1:1"
+    },
+    "impact": {
+      "file": "impact.png",
+      "ratio": "1:1"
+    },
+    "gl": {
+      "file": "gl.png",
+      "ratio": "2:1"
+    },
+    "ak47": {
+      "file": "ak47.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "g3": {
+      "file": "g3.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "g36c": {
+      "file": "g36c.png",
+      "ratio": "2:1",
+      "flip": true
+    },
+    "m14": {
+      "file": "m14.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "m16": {
+      "file": "m16.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "m4": {
+      "file": "m4.png",
+      "ratio": "2:1",
+      "flip": true
+    },
+    "ak74u": {
+      "file": "ak74u.png",
+      "ratio": "2:1",
+      "flip": true
+    },
+    "saw": {
+      "file": "saw.png",
+      "ratio": "2:1",
+      "flip": true
+    },
+    "m60e4": {
+      "file": "m60e4.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "uzi": {
+      "file": "uzi.png",
+      "ratio": "1:1",
+      "flip": true
+    },
+    "mp5": {
+      "file": "mp5.png",
+      "ratio": "2:1",
+      "flip": true
+    },
+    "p90": {
+      "file": "p90.png",
+      "ratio": "2:1",
+      "flip": true
+    },
+    "rpd": {
+      "file": "rpd.png",
+      "ratio": "2:1",
+      "flip": true
+    },
+    "skorpion": {
+      "file": "skorpion.png",
+      "ratio": "1:1",
+      "flip": true
+    },
+    "helicopter": {
+      "file": "helicopter.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "m1014": {
+      "file": "m1014.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "c4": {
+      "file": "c4.png",
+      "ratio": "1:1"
+    },
+    "saw_bipod": {
+      "file": "saw_bipod.png",
+      "ratio": "2:1",
+      "flip": true
+    },
+    "winchester1200": {
+      "file": "winchester1200.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "barrett": {
+      "file": "barrett.png",
+      "ratio": "2:1",
+      "flip": true
+    },
+    "colt45": {
+      "file": "colt45.png",
+      "ratio": "2:1",
+      "flip": true
+    },
+    "deserteagle": {
+      "file": "deserteagle.png",
+      "ratio": "2:1",
+      "flip": true
+    },
+    "dragunov": {
+      "file": "dragunov.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "aw50": {
+      "file": "aw50.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "m21": {
+      "file": "m21.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "m40a3": {
+      "file": "m40a3.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "beretta": {
+      "file": "beretta.png",
+      "ratio": "2:1",
+      "flip": true
+    },
+    "remington700": {
+      "file": "remington700.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "frag_grenade": {
+      "file": "frag_grenade.png",
+      "ratio": "1:1",
+      "flip": true
+    },
+    "usp": {
+      "file": "usp.png",
+      "ratio": "1:1",
+      "flip": true
+    },
+    "airstrike": {
+      "file": "airstrike.png",
+      "ratio": "1:1"
+    },
+    "artillery": {
+      "file": "artillery.png",
+      "ratio": "4:1"
+    },
+    "destructible_car": {
+      "file": "destructible_car.png",
+      "ratio": "1:1"
+    },
+    "helicopter_1x1": {
+      "file": "helicopter_1x1.png",
+      "ratio": "1:1"
+    },
+    "defaultweapon": {
+      "file": "defaultweapon.png",
+      "ratio": "1:1",
+      "flip": true
+    },
+    "at4": {
+      "file": "at4.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "claymore": {
+      "file": "claymore.png",
+      "ratio": "1:1"
+    },
+    "mp44": {
+      "file": "mp44.png",
+      "ratio": "2:1",
+      "flip": true
+    },
+    "rpg": {
+      "file": "rpg.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "smoke_grenade": {
+      "file": "smoke_grenade.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "concussion_grenade": {
+      "file": "concussion_grenade.png",
+      "ratio": "1:1",
+      "flip": true
+    },
+    "death_died": {
+      "file": "death_died.png",
+      "ratio": "1:1"
+    },
+    "death_friendly_fire": {
+      "file": "death_friendly_fire.png",
+      "ratio": "1:1"
+    },
+    "40mmgrenade_32x32": {
+      "file": "40mmgrenade_32x32.png",
+      "ratio": "1:1"
+    },
+    "ak47_gp25": {
+      "file": "ak47_gp25.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "hud_artillery": {
+      "file": "hud_artillery.png",
+      "ratio": "1:1"
+    },
+    "hud_g36c": {
+      "file": "hud_g36c.png",
+      "ratio": "2:1",
+      "flip": true
+    },
+    "javelin": {
+      "file": "javelin.png",
+      "ratio": "2:1",
+      "flip": true
+    },
+    "m16a4": {
+      "file": "m16a4.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "m4carbine_m203_eotech": {
+      "file": "m4carbine_m203_eotech.png",
+      "ratio": "2:1",
+      "flip": true
+    },
+    "m4carbine_reddot": {
+      "file": "m4carbine_reddot.png",
+      "ratio": "2:1",
+      "flip": true
+    },
+    "m4carbine_reddot_suppressor": {
+      "file": "m4carbine_reddot_suppressor.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "m4carbine_suppressor_203_reflex": {
+      "file": "m4carbine_suppressor_203_reflex.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "mg42": {
+      "file": "mg42.png",
+      "ratio": "2:1",
+      "flip": true
+    },
+    "minigun": {
+      "file": "minigun.png",
+      "ratio": "2:1",
+      "flip": true
+    },
+    "mp5_suppressor": {
+      "file": "mp5_suppressor.png",
+      "ratio": "2:1",
+      "flip": true
+    },
+    "shotgun": {
+      "file": "shotgun.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "stinger": {
+      "file": "stinger.png",
+      "ratio": "4:1",
+      "flip": true
+    },
+    "suitcase_bomb": {
+      "file": "suitcase_bomb.png",
+      "ratio": "1:1"
+    },
+    "us_flashgrenade": {
+      "file": "us_flashgrenade.png",
+      "ratio": "1:1",
+      "flip": true
+    }
+  },
+  "weapons": {
+    "ac130_105mm": "skull",
+    "ac130_25mm": "skull",
+    "ac130_40mm": "skull",
+    "airstrike": "airstrike",
+    "ak47": "ak47",
+    "ak47_acog": "ak47",
+    "ak47_gl": "ak47",
+    "ak47_reflex": "ak47",
+    "ak47_silencer": "ak47",
+    "ak74u": "ak74u",
+    "ak74u_acog": "ak74u",
+    "ak74u_reflex": "ak74u",
+    "ak74u_silencer": "ak74u",
+    "artillery": "artillery",
+    "at4": "at4",
+    "aw50": "aw50",
+    "aw50_acog": "aw50",
+    "barrett": "barrett",
+    "barrett_acog": "barrett",
+    "beretta": "beretta",
+    "beretta_silencer": "beretta",
+    "binoculars": "skull",
+    "brick_blaster": "skull",
+    "brick_bomb": "skull",
+    "briefcase_bomb": "c4",
+    "briefcase_bomb_defuse": "c4",
+    "c4": "c4",
+    "claymore": "claymore",
+    "cobra_20mm": "helicopter",
+    "cobra_ffar": "helicopter",
+    "colt45": "colt45",
+    "colt45_silencer": "colt45",
+    "concussion_grenade": "concussion_grenade",
+    "default": "skull",
+    "defaultweapon": "defaultweapon",
+    "deserteagle": "deserteagle",
+    "deserteaglegold": "deserteagle",
+    "destructible_car": "destructible_car",
+    "dragunov": "dragunov",
+    "dragunov_acog": "dragunov",
+    "flash_grenade": "skull",
+    "frag_grenade": "frag_grenade",
+    "frag_grenade_short": "frag_grenade",
+    "g3": "g3",
+    "g3_acog": "g3",
+    "g3_gl": "g3",
+    "g3_reflex": "g3",
+    "g3_silencer": "g3",
+    "g36c": "g36c",
+    "g36c_acog": "g36c",
+    "g36c_gl": "g36c",
+    "g36c_reflex": "g36c",
+    "g36c_silencer": "g36c",
+    "gl": "gl",
+    "gl_ak47": "gl",
+    "gl_g3": "gl",
+    "gl_g36c": "gl",
+    "gl_m14": "gl",
+    "gl_m16": "gl",
+    "gl_m4": "gl",
+    "helicopter": "helicopter_1x1",
+    "hind_ffar": "helicopter",
+    "humvee_50cal": "skull",
+    "location_selector": "skull",
+    "m1014": "m1014",
+    "m1014_grip": "m1014",
+    "m1014_reflex": "m1014",
+    "m14": "m14",
+    "m14_acog": "m14",
+    "m14_gl": "m14",
+    "m14_reflex": "m14",
+    "m14_silencer": "m14",
+    "m16": "m16",
+    "m16_acog": "m16",
+    "m16_gl": "m16",
+    "m16_reflex": "m16",
+    "m16_silencer": "m16",
+    "m21": "m21",
+    "m21_acog": "m21",
+    "m4": "m4",
+    "m4_acog": "m4",
+    "m4_gl": "m4",
+    "m4_reflex": "m4",
+    "m4_silencer": "m4",
+    "m40a3": "m40a3",
+    "m40a3_acog": "m40a3",
+    "m60e4": "m60e4",
+    "m60e4_acog": "m60e4",
+    "m60e4_grip": "m60e4",
+    "m60e4_reflex": "m60e4",
+    "mp44": "mp44",
+    "mp5": "mp5",
+    "mp5_acog": "mp5",
+    "mp5_reflex": "mp5",
+    "mp5_silencer": "mp5",
+    "p90": "p90",
+    "p90_acog": "p90",
+    "p90_reflex": "p90",
+    "p90_silencer": "p90",
+    "radar": "skull",
+    "remington700": "remington700",
+    "remington700_acog": "remington700",
+    "rpd": "rpd",
+    "rpd_acog": "rpd",
+    "rpd_grip": "rpd",
+    "rpd_reflex": "rpd",
+    "rpg": "rpg",
+    "saw": "saw",
+    "saw_acog": "saw",
+    "saw_bipod_crouch": "saw_bipod",
+    "saw_bipod_prone": "saw_bipod",
+    "saw_bipod_stand": "saw_bipod",
+    "saw_grip": "saw",
+    "saw_reflex": "saw",
+    "skorpion": "skorpion",
+    "skorpion_acog": "skorpion",
+    "skorpion_reflex": "skorpion",
+    "skorpion_silencer": "skorpion",
+    "smoke_grenade": "smoke_grenade",
+    "usp": "usp",
+    "usp_silencer": "usp",
+    "uzi": "uzi",
+    "uzi_acog": "uzi",
+    "uzi_reflex": "uzi",
+    "uzi_silencer": "uzi",
+    "winchester1200": "winchester1200",
+    "winchester1200_grip": "winchester1200",
+    "winchester1200_reflex": "winchester1200"
+  },
+  "deaths": {
+    "died": "skull",
+    "suicide": "skull",
+    "melee": "knife",
+    "headshot": "headshot",
+    "crush": "crush",
+    "falling": "falling",
+    "impact": "impact"
+  }
+}

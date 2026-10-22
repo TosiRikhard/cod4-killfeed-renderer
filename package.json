@@ -1,0 +1,24 @@
+{
+  "name": "cod4-killfeed-renderer",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Render the killfeed of a Call of Duty 4 .dm_1 demo like the game does, as a transparent overlay for fragmovies. Runs in the browser.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "assets": "node src/cli.ts assets",
+    "typecheck": "tsc -p tsconfig.json",
+    "test": "node --test tests/killfeed.test.ts"
+  },
+  "engines": {
+    "node": ">=22.6"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "buffer": "^6.0.3",
+    "esbuild": "^0.25.10",
+    "mp4-muxer": "^5.2.2",
+    "typescript": "^5.6.0"
+  }
+}
